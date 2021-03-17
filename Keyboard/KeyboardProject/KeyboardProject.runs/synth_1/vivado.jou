@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Dec  4 22:19:01 2020
+# Process ID: 16756
+# Current directory: C:/Users/dyana/Desktop/KeyboardProject/KeyboardProject.runs/synth_1
+# Command line: vivado.exe -log kb_main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source kb_main.tcl
+# Log file: C:/Users/dyana/Desktop/KeyboardProject/KeyboardProject.runs/synth_1/kb_main.vds
+# Journal file: C:/Users/dyana/Desktop/KeyboardProject/KeyboardProject.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source kb_main.tcl -notrace
